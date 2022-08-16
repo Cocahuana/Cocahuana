@@ -27,13 +27,15 @@ Email: ezequieldominguez11@gmail.com
 <h2>Bookstore Ecommerce</h2>
 
 <h3>Some Project Pictures</h3>
-![1 - Landing page](https://user-images.githubusercontent.com/76882183/184922501-766c1798-d5cf-4c61-8f92-96cc7e514c22.jpeg)
-![2 - AdminDashboard light mode](https://user-images.githubusercontent.com/76882183/184922498-c29e27aa-2265-4328-ab68-db8ee946ff88.jpeg)
-![3 - AdminDashboard Night mode](https://user-images.githubusercontent.com/76882183/184922492-d16a0028-802a-409b-9a03-e3869b82091a.jpeg)
-![4 - AdminDashboard users and roles](https://user-images.githubusercontent.com/76882183/184922489-a6a61d59-66b1-47c2-adab-82638665e38d.jpeg)
-![5 - Home mobile first](https://user-images.githubusercontent.com/76882183/184922484-59c9fa6e-1e61-4190-ad36-3c739721984d.jpeg)
-![6 - Payment with Stripe](https://user-images.githubusercontent.com/76882183/184922472-4a251fb8-1888-497a-8638-b20fdf7d24a1.jpeg)
-![7 - Mailing](https://user-images.githubusercontent.com/76882183/184922506-0891fe7f-29d4-4cef-b998-d1057ea464ac.jpeg)
+
+![1 - Landing page](https://user-images.githubusercontent.com/76882183/184923329-b2d61c56-ef58-46ba-b0cc-c3c67c2daa9e.jpeg)
+![2 - AdminDashboard light mode](https://user-images.githubusercontent.com/76882183/184923334-dba4a20a-7e34-422a-a67f-077095e2c71e.jpeg)
+![3 - AdminDashboard Night mode](https://user-images.githubusercontent.com/76882183/184923336-3d725eb6-af81-4dd9-8d38-b113e83b38d3.jpeg)
+![4 - AdminDashboard users and roles](https://user-images.githubusercontent.com/76882183/184923338-001264c6-b791-4352-8ae0-b0be0330664a.jpeg)
+![5 - Home mobile first](https://user-images.githubusercontent.com/76882183/184923340-4c2d848d-dfd6-44aa-b979-9d379681b305.jpeg)
+![6 - Payment with Stripe](https://user-images.githubusercontent.com/76882183/184923341-09c6d2a1-215c-4466-b8b5-c951f9c4df31.jpeg)
+![7 - Mailing](https://user-images.githubusercontent.com/76882183/184923343-7278196c-be37-4cc6-a5c4-eeac66feeff2.jpeg)
+
 
 Those are only a few features of the ecommerce, if you want to discover more about the Web App
 <h3>Visit the project --> <a>https://e-commerce-book-store.vercel.app/</a></h3>
