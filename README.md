@@ -1,26 +1,22 @@
 ### Good morning starshine, Ezequiel says hello 👋
 
-First things first, welcome to my Github profile, a place where you will find the projects I've been working on...
+First things first, welcome to my Github profile 😄, a place where you will find the projects I've been working on...
 
 # About ME
 
-Since I was little I was surrounded by technology. The first time when I learned how to use a computer was close to my 3 years old, an activity that influenced my passion for the Tech industry.
+Since I was little I was surrounded by technology. The first time when I learned how to use a computer was close to my 3 years old 🌱, an activity that influenced my passion for the Tech industry.
 
 Electronics caught my attention when I was 13 years old, so I started an Electronics Technician throughout high school where I developed a sense of dedication and responsibility at a very young age.
 
 Without having graduated yet, a company required my services as a Technician, a job where I discovered my passion for programming, so I resigned and started studying at the university.
 
-After a year I took the challenge to Join Henry and dedicate myself 100% to web development once and for all, place where I met very passionate and dedicated people. People from whom I could learn much more than I could on my own, which is why I discovered that teamwork and constant communication are one of the best characteristics that the Tech industry has.
+After a year I took the challenge to Join Henry and dedicate myself 100% to web development once and for all, place where I met very passionate and dedicated people 👯. People from whom I could learn much more than I could on my own, which is why I discovered that teamwork and constant communication are one of the best characteristics that the Tech industry has.
 
 Hard / Tech skills
 JavaScript | ReactJs | Node.js | Redux | PostgreSQL | Express | HTML | CSS | jQuery | MySQL | SCRUM | Git/GitHub | Responsive Design | Chakra UI | web pack | vite
 
 Soft Skills
 Active listening, results orientation, customer orientation, emotional intelligence, crisis management, planning and organization, agile methodologies, teamwork.
-
-If you would like to know more about me, please feel free to get in touch with me by my email:
-Email: ezequieldominguez11@gmail.com
-
 
 # Projects
 
@@ -86,6 +82,10 @@ Features
 * Design and develop a Recipe Web App which includes: Search by coincidence, filters, sorts, pagination and it consumes Spoonacular API to bring recipes. Also, new Recipes can be written and published.
 
 * The App was debeloped using React, Redux and pure CSS for Front-end. Plus, it was developed with Node js, Express, PostgreSQL and Sequelize for Back-end.
+
+
+
+<h3>If you would like to know more about me, please feel free to get in touch 💬 with me by my email: ezequieldominguez11@gmail.com</h3>
 
 <!--
 **Cocahuana/cocahuana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
