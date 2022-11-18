@@ -12,6 +12,8 @@ JavaScript | ReactJs | Node.js | Redux | PostgreSQL | Express | HTML | CSS | jQu
 Soft Skills
 Active listening, results orientation, customer orientation, emotional intelligence, crisis management, planning and organization, agile methodologies, teamwork.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=cocahuana&theme=highcontrast&show_icons=true&count_private=true)
+
 # Projects
 
 <h2>Bookstore Ecommerce</h2>
