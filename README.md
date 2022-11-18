@@ -1,16 +1,10 @@
 ### Good morning starshine, Ezequiel says hello 👋
 
-First things first, welcome to my Github profile 😄, a place where you will find the projects I've been working on...
+First things first, welcome to my Github profile 😄, a place where you will find the projects and jobs I've been working on...
 
 # About ME
 
-Since I was little I was surrounded by technology. The first time when I learned how to use a computer was close to my 3 years old 🌱, an activity that influenced my passion for the Tech industry.
-
-Electronics caught my attention when I was 13 years old, so I started an Electronics Technician throughout high school where I developed a sense of dedication and responsibility at a very young age.
-
-Without having graduated yet, a company required my services as a Technician, a job where I discovered my passion for programming, so I resigned and started studying at the university.
-
-After a year I took the challenge to Join Henry and dedicate myself 100% to web development once and for all, place where I met very passionate and dedicated people 👯. People from whom I could learn much more than I could on my own, which is why I discovered that teamwork and constant communication are one of the best characteristics that the Tech industry has.
+Software developer with more than one year of experience in designing and developing applications and web pages. Self-motivated with a strong desire to learn new technologies, work on challenging projects and help my teammates 24/7, I am also adaptable and flexible to learn new tools and make clients' dreams come true, as evidenced by my career change which I started building software within the hardware of electronic products that animate parties, gatherings and celebrations continuing to this day in the delivery of solutions on the web ranging from user interaction to storage in databases.
 
 Hard / Tech skills
 JavaScript | ReactJs | Node.js | Redux | PostgreSQL | Express | HTML | CSS | jQuery | MySQL | SCRUM | Git/GitHub | Responsive Design | Chakra UI | web pack | vite
@@ -62,10 +56,6 @@ Features
  * Publish books
  * Assign administrators
 
-
-
-
-
 <h2>Recipes Single Web Application</h2>
 <h3>Project Pictures</h3>
 
@@ -82,8 +72,6 @@ Features
 * Design and develop a Recipe Web App which includes: Search by coincidence, filters, sorts, pagination and it consumes Spoonacular API to bring recipes. Also, new Recipes can be written and published.
 
 * The App was debeloped using React, Redux and pure CSS for Front-end. Plus, it was developed with Node js, Express, PostgreSQL and Sequelize for Back-end.
-
-
 
 <h3>If you would like to know more about me, please feel free to get in touch 💬 with me by my email: ezequieldominguez11@gmail.com</h3>
 
